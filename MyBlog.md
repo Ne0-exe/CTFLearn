@@ -4,4 +4,4 @@
 
 Quite easy one, all I had to do was to check the local storage and there was the 'flag' kye with value containing the flag.
 
-![alt text](https://github.com/Ne0-exe/CTFLearn/blob/main/flag.png)
+![flag](https://user-images.githubusercontent.com/64281657/176416055-20cd9b1d-4971-459e-9fba-fe221baf208f.png)
